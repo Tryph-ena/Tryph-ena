@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @Tryph-ena
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning  SE
+- 👀 I’m interested in technology and other stuff
+- 🌱 I’m always improving myself
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me through my email stesha534@gmail.com
+- 📫 How to reach me, through my email stesha534@gmail.com
 
 Fun fact is that I'm an enthusiast...
-Also fascinated about codes and writing them.
+Also fascinated by codes and writing them.
+I also have experience in customer extraction and customer service-related fields.
+experience in AI Career Essentials
 
 
 <!---
